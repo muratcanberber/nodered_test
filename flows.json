@@ -6,5 +6,32 @@
         "disabled": false,
         "info": "",
         "env": []
+    },
+    {
+        "id": "e6824109a60a4428",
+        "type": "inject",
+        "z": "74d0c0274d105360",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 240,
+        "y": 140,
+        "wires": [
+            []
+        ]
     }
 ]
