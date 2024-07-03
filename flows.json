@@ -31,25 +31,7 @@
         "x": 220,
         "y": 180,
         "wires": [
-            [
-                "b5c205fa1941eed2"
-            ]
+            []
         ]
-    },
-    {
-        "id": "b5c205fa1941eed2",
-        "type": "debug",
-        "z": "74d0c0274d105360",
-        "name": "debug 1",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 540,
-        "y": 180,
-        "wires": []
     }
 ]
